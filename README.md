@@ -1,4 +1,6 @@
-# Personal expenses management application that allows users to track how much money have they spent.
+# Personal expenses management application 
+
+## that allows users to track how much money have they spent.
 
 As a result of test problem solution you should provide a web server application that has following API:
 
